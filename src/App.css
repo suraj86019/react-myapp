@@ -1,0 +1,15 @@
+.card {
+  background-color: #ba2c2c;
+  padding: 10px;
+  margin-bottom: 10px;
+}
+
+.card-list {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  grid-gap: 10px;
+}
+
+button {
+  margin-right: 10px;
+}
